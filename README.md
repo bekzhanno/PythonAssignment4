@@ -1,6 +1,6 @@
 # python_assignment_4
 ## Title:
-
+Assignment_4 Web scraping with web site
 ## Installation
 
 PyPI
@@ -24,10 +24,7 @@ app.config['SECRET_KEY'] = 'thisismyflasksecretkey'
 ## Examples
 Outputs will be like these:
 ```bash
-Could not find user with a login : {{data}}
-Hello, token which is provided is correct 
-Could not verify token
-Token : {{data}}
+Information about cryptocurrencies from coinmarketcap
 ```
 Our tokens saved in database
 ## License
